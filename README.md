@@ -3,7 +3,7 @@ WIP. A tool for visualising, summarising, learning about and engaging with Pytho
 
 #### Purpose
 ##### A tool in my tookit
-Primarily, this repository has been created to support the efforts of my repository [pytest-onboarding](https://github.com/WarrenTheRabbit/pytest-onboarding/blob/main/README.md), which is a work in progress for contributing 'contributor case studies' and documentation to [pytest](https://docs.pytest.org/en/7.4.x/).
+Primarily, this repository has been created to support the efforts of my repository [pytest-onboarding](https://github.com/WarrenTheRabbit/pytest-onboarding/blob/main/README.md), which is a very early stage WIP for contributing 'contributor case studies' and documentation to [pytest](https://docs.pytest.org/en/7.4.x/).
 
 ##### A *How To* for other junior devs  
 A close secondary goal is to create a kind of 'partially explained play-by-play' that a junior dev could use to see how someone else has gone about creating a real and permanent tool for their toolkit in a 'semi-professional way'. You are welcome to code along, base different efforts on it, skim through sections or sing the entire contents of the repository to a metronome if that is best for you. 
