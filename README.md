@@ -1,5 +1,5 @@
 # reposleuth
-A tool for visualising, summarising, learning about and engaging with Python repositories. 
+WIP. A tool for visualising, summarising, learning about and engaging with Python repositories. 
 
 #### Purpose
 ##### A tool in my tookit
