@@ -2,7 +2,7 @@
 
 WIP. A tool for visualising, summarising, learning about and engaging with Python repositories.
 
-Unlike any other part of this repository, most of this readme is written in a personal style; that is, the personality of the author is not elided from the text, personal history may be discussed and all creative choices are permitted. 
+This readme is unusual; unlike every other part of the repository, most of it is written in a personal style. It even contains [The Shed of Unwanted Things](#the-shed-of-unwanted-things). If you read through this readme and something in it resonates, or if you have a question or you just want to say, feel free to reach out to me by [creating an issue](https://github.com/WarrenTheRabbit/reposleuth/issues), [messaging me](https://www.linkedin.com/in/warrenmarkham/) or even by [scheduling a chat](https://calendly.com/byte-sized-chats/30min). You may find yourself surprised by how much I value interacting with you.
         
 #### Purpose
 
@@ -156,4 +156,5 @@ You also know two truths:
 
 Thank you for reading.
 
-[Warren Markham](https://www.linkedin.com/in/warrenmarkham/)
+Warren Markham
+|[create an issue](https://github.com/WarrenTheRabbit/reposleuth/issues)|[messaging me on LinkedIn](https://www.linkedin.com/in/warrenmarkham/)|[schedule a chat](https://calendly.com/byte-sized-chats/30min)|
