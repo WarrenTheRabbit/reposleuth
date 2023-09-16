@@ -91,7 +91,7 @@ As such, many of the above changes were uncomfortable. _Quite_ uncomfortable. Wr
 I wish you the very best and encourage you to be liberated of all worry. No one is special. There is enough noise in the world to distract you already - no need to distract yourself further with nonsense. I'll finish this unconvential readme with something even more unconventional: a story. I hope it helps you.
 
 ##### The Shed of Unwanted Things
-Imagine you are standing in a dark shed. You are in The Shed of Unwanted Things. You put yourself there because you believe you are unwanted. 
+Imagine you are standing in a dark shed. You are, in fact, in The Shed of Unwanted Things. You put yourself there because you believe you are unwanted. 
 
 All around you, things gather dust, are broken down and are never to be used or wanted by anyone ever again. But you are not one of those unwanted things. You realise that suddenly. You are actually there to leave unwanted things behind. 
 
