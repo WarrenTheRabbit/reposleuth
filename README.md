@@ -64,9 +64,13 @@ I'm doing these chats because they enrich my life. So I'm all good. The only que
 
 ##### What I was doing
 
-Until very recently, I wasn't 'learning to program' in a way that satisfied my needs. I was avoiding getting involved. I was avoiding taking responsibility for public codebases. I was avoiding leveraging my whole personality. I was avoiding thinking about my values.
+Until very recently, I wasn't 'learning to program' in a way that satisfied my needs. I was avoiding getting involved. I was avoiding taking responsibility for public codebases. I was avoiding leveraging my whole personality. I was avoiding thinking about my values. I was avoiding having a clear intention.
 
-What was I doing instead? I was doing tutorials. I was reading books. I was noodling on single code blocks that will only ever exist on my local machine (and probably not for long) while obsessing over variable names, line lengths, syntax clarity, testability and so on and so forth. For the past year, until just recently, programming was an activity that I almost entirely orphaned from what is most real about me: my values, my personality and my intentions. I decided enough is enough. It was time to change my approach to programming.
+What was I doing instead? I was doing tutorials. I was reading books. I was noodling on single code blocks that will only ever exist on my local machine (and probably not for long) while obsessing over variable names, line lengths, syntax clarity, testability and so on and so forth.
+
+For the past year, until just recently, programming was an activity that I almost entirely orphaned from what is most real about me: my values, my personality, my circumstances and my intentions.
+
+I decided enough is enough. It was time to change my approach to programming.
 
 ##### What I have changed
 Common themes in the changes I made are:
