@@ -99,25 +99,25 @@ You leave behind your doubt. You leave behind your comparisons. You leave behind
 
 You are not too old, too young, too inexperienced, too uneducated, too unskilled, too unprofessional, too unattractive, too tall, too short, too male, too female, too inbetween, too unidentified, too heavy, too light, too uninteresting, too unconfident, too confident, too unlikable, too unlovable, too unloving, too loving, too unkind, too kind or too much or too little of anything. All of that falls away.  
 
-As you leave all those things behind, you feel something. It is somewhere between a feeling of warmth and an anxious flutter. Paused, standing in the dark shed by yourself, you allow yourself to just be curious about the feeling. What is it? What does it mean? Why are you feeling warm but anxious? Is it possible that *you* are wanted? You even say it aloud: I am wanted. It feels quite good. It also makes you feel nervouse. You say it again. I am wanted. You say it twenty times. You keep saying it. It *is* frightening. But it also feels really good. You are wanted.
+As you leave all those things behind, you feel something. It is somewhere between a feeling of warmth and an anxious flutter. Paused, standing in the dark shed by yourself, you allow yourself to just be curious about the feeling. What is it? What does it mean? Why are you feeling warm but anxious? Is it possible that *you* are wanted? You even say it aloud: I am wanted. It feels quite good. It also makes you feel nervous. You say it again: I am wanted. You say it twenty times. You keep saying it. It *is* frightening. But it also feels *really* good. You are wanted.
 
-The more you say it the more you become aware of the shed. It is *angry*. The Shed of Unwanted Things is angry that you are there. It is an uncomfortable feeling. The shed wants to eject you as soon as possible. It *hates* having you there. Its job is to store unwanted things and you are not at all an unwated thing. 
+The more you say it the more you become aware of the shed. It is *angry*. The Shed of Unwanted Things is angry that you are there. It is an uncomfortable feeling. The shed wants to eject you as soon as possible. It *hates* having you there. Its job is to store unwanted things and you are not at all an unwanted thing. 
 
 "Get out!" it suddenly tells you, like a kettle blowing its top. Venting with bits of spittle, it goes on: "You cannot stay here! You are *full* of things that are wanted. *You* are wanted!" 
 
 It sounds very scornful when it says that, like it can't imagine anything worse. It just wants to be left alone to grow its cobwebs. It doesn't like you, value you or appreciate you. The sooner you leave the sooner it can get right back to forgetting you were ever even there. 
 
-"Why am I wanted?" you ask. You know you are wanted but you don't know why. "I am not special. I am not unique. I am not different." You know there are thousands, millions, *billions* out there just like you. Why does the world won't *you*?
+"Why am I wanted?" you ask. You know you are wanted but you don't know why. "I am not special. I am not unique. I am not different." You know there are thousands, millions, *billions* out there just like you. Why does the world want *you*?
 
 The shed is outraged. Its frame shakes and its door rattles with its fury. "YOU!" it shouts. "You are EVERYTHING that is wanted!" 
 
-Its door swings open and beautiful sunlight pours in. On your face, into your mouth; the sun being in the room with you is like warm sugar. You can even see the worries and fears you let go off earlier when you dropped them to the shed floor not moments ago. They look so small and silly now. They have gathered cobwebs so quickly. They look unusable. Why did you carry them around? They truly are unwanted. 
+Its door swings open and beautiful sunlight pours in. On your face, into your mouth; the sun being in the room with you is like technicolour and sugar. You can even see the worries and fears you let go off earlier when you dropped them to the shed floor not moments ago. They look so small and silly now. They have gathered cobwebs so quickly. They look unusable. Why did you carry them around? They truly are unwanted. 
 
 But the shed has not finished yelling at you: "Out there, you are the ONLY thing that is wanted!" 
 
 It is so angry at you. There is something it *really* doesn't like about you; there is something about you that makes the shed completely sure you will never be allowed to stay in The Shed of Unwanted Things. Not now and not ever. 
 
-"They want you", the shed says, practically sneering now, "because you can *choose*, because you can *commit*. That is what they want. They *need* it. The only way anything ever happens out there is when someone chooses and when someone commits. They are obsessed with! They are obsessed with things happening!" 
+"They want you", the shed says, practically sneering now, "because you can *choose*, because you can *commit*. That is what they want. They *need* it. The only way anything ever happens out there is when someone chooses and when someone commits. They are obsessed with it! They are obsessed with things *happening*!" 
 
 The shed really doesn't like the outside world. 
 
@@ -145,16 +145,16 @@ And that is how you leave The Shed of Unwanted Things. You are never allowed bac
 
 You also have a warm, almost fluttering feeling in your stomach. It is your courage lamp. You are fond of it and you are glad it is there. It will help you in the days ahead.
 
-And *wow*, it feels really good to know that you are wanted. You are wanted by the world. It is silly you ever doubted it - you can choose and you can commit. Surprisingly, it actually feels really, really good to be hated by The Shed of Unwanted Things too. What a duckface it was.
-
-You also know two truths:
+And *wow*, it feels really good to know that you are wanted. You are wanted by the world. It is silly you ever doubted it - you can choose and you can commit. It is so simple. You are A Wanted Thing and you know two truths:
 
 1) You have everything you need to become a programmer. All you to have to do is care, take responsibility, build, say Yes and throw yourself wholeheartedly forward through time and into encounters with other people.
 
 2) Even though you know for sure that you are not at all special, you can be just as sure that any time you choose to turn up and care you will, without fail, create something that is.
 
-
-Thank you for reading.
+Thank you for reading. You can commit and you can choose. 
 
 Warren Markham
 |[create an issue](https://github.com/WarrenTheRabbit/reposleuth/issues)|[messaging me on LinkedIn](https://www.linkedin.com/in/warrenmarkham/)|[schedule a chat](https://calendly.com/byte-sized-chats/30min)|
+
+P.S: Surprisingly, and with a small giggle, you realise it actually feels really, really good to be hated by The Shed of Unwanted Things too. Who gives a flying two bobs about whether or not it likes you anyway. It was a total utter duckface.
+
