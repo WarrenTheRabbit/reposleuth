@@ -126,7 +126,7 @@ I wish you the very best and encourage you to be liberated of all worry. No one 
 >
 >The shed really doesn't like the outside world. 
 >
->"They love when things happen. Oh, look, so-and-so and this-and-that is creating blah-blah-blergh for those you-knows-and-what-nots and it does dippity-doppity-didcraps." 
+>"They love when things happen. Oh, look, so-and-so and this-and-that is creating blah-blah-blergh for those you-knows-and-wit-nots and it does dippity-doppity-didcraps." 
 >
 >It is almost like the shed is grinding its teeth - or is it retching? - from frustration and distaste. 
 >
