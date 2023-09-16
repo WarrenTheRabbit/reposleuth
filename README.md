@@ -159,7 +159,7 @@ And *wow*, it feels really good to know that you are wanted. You are wanted by t
 Thank you for reading. You can commit and you can choose. 
 
 Warren Markham
-|[create an issue](https://github.com/WarrenTheRabbit/reposleuth/issues)|[messaging me on LinkedIn](https://www.linkedin.com/in/warrenmarkham/)|[schedule a chat](https://calendly.com/byte-sized-chats/30min)|
+| [create an issue](https://github.com/WarrenTheRabbit/reposleuth/issues) | [messaging me on LinkedIn](https://www.linkedin.com/in/warrenmarkham/) | [schedule a chat](https://calendly.com/byte-sized-chats/30min) |
 
 P.S: Surprisingly, and with a small giggle, you realise it actually feels really, really good to be hated by The Shed of Unwanted Things too. Who gives a flying two bobs about whether or not it likes you anyway. It was a total utter duckface.
 
