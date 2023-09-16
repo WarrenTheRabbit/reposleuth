@@ -72,7 +72,7 @@ What have I been doing instead? I've been doing tutorials. I've been reading boo
 Common themes in the changes I made are:
 - I was willing to show something of who I am.
 - I found places that welcomed and appreciated my enthusiasm and willigness to contibute; if I couldn't find the right place to contribute something alive in me, I created the place myself.
-- I didn't worry about what I would get back from my contributions - I got back in touch with what makes me feel alived and focused on what I could give.
+- I didn't worry about what I would get back from my contributions - I connected with what feels alive in me and juytfocused on what I could give.
 
 The first change was that I started telling someone in the software community how much I value them: my mentor [Daniel Mastrorillo](https://www.linkedin.com/in/daniel-mastrorillo/), who now runs [TechBoost](https://www.linkedin.com/groups/14313035/). Soon I started showing more of my heart and self to other people in the programming community. I commented on posts. I sent messages. I felt welcomed and supported in the LinkedIn community by [André ](https://www.linkedin.com/in/andrejonas/), [John](https://www.linkedin.com/in/johncrickett), [Dariusz](https://www.linkedin.com/in/darsadowski/), [Bryan](https://www.linkedin.com/in/bryan-finster/) and [Florian](https://www.linkedin.com/in/florian-fanderl/). I also connected with [Adam](https://www.linkedin.com/in/adam-martuccio/) and [Jed](https://www.linkedin.com/in/jed-roberts/) from the Melbourne, Australia [Holberton School](https://holbertonschool.com.au/). They are trying to help career changers and I find that very meaningful. There were others during this stage too. It doesn't even matter if anyone remembers me. Everyone's [Dunbar quota](https://en.wikipedia.org/wiki/Dunbar%27s_number) is super-saturated, so it is hardly a slight to be forgotten in this super-interconnected age. Besides, they may not be very good at remembering faces or names in general, and that is totally fine too. The most important thing for me is that they encouraged me, made me feel welcome and affirmed that I have value.🙏
 
@@ -82,7 +82,7 @@ The third change was that I started contributing to [*pytest*](https://docs.pyte
 
 The fourth change was that I started the [_pytest-onboarding_](https://github.com/WarrenTheRabbit/pytest-onboarding/blob/main/README.md) repository. 
 
-This is the fifth change.
+This repository is the fifth change.
 
 ##### Reflecting on the changes
 None of these changes have gone badly for me. I _did_ have to feel fear. Instead of playing a video game, watching a tutorial or doing some other thing among an endless carosoul of things I could do to mask and quiet my nervous system, I had to counsel my parts from the executive seat: 
