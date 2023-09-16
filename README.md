@@ -36,7 +36,7 @@ You can reach out to me by [creating an issue](https://github.com/WarrenTheRabbi
 
 
 ##### A chat about what?
-It can be a mental health chat, an opportunity to vent, someone to bounce ideas off - whatever you need it to be. If you *wish* you knew what you needed it to, then just go ahead and book in. Almost always, the best way to find something out is to turn up and start. Remember: you are allowed to not know. No one is judging you. Try saying this:
+It can be a mental health chat, an opportunity to vent, someone to bounce ideas off - whatever you need it to be. If you *wish* you knew what you needed it to but you don't know, then just go ahead and book in. Almost always, the best way to find something out is to turn up and start. Remember: you are allowed to not know. No one is judging you. Try saying this:
 
 > [!IMPORTANT]  
 > I am allowed to not know.<br>
