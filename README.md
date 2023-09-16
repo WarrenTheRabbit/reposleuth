@@ -39,19 +39,19 @@ You can reach out to me by [creating an issue](https://github.com/WarrenTheRabbi
 It can be a mental health chat, an opportunity to vent, someone to bounce ideas off - whatever you need it to be. If you *wish* you knew what you needed it to, then just go ahead and book in. Almost always, the best way to find something out is to turn up and start. Remember: you are allowed to not know. No one is judging you. Try saying this:
 
 > [!IMPORTANT]  
-> I am allowed to not know.
-> I am allowed to be inarticulate.
-> I am allowed to be confused.
-> I am allowed to lack clarity.
-> I am allowed to have the wrong answer.
-> I am allowed to change my mind.
-> I am allowed to ask for help.
-> I am allowed to question.
-> I am allowed to think about things I don't usually think about.
-> I am allowed to take up someone's time.
-> I am allowed to have no idea what I'm saying and to say it anyway.
-> I am allowed to talk fast and to talk slow.
-> I am allowed to sit on camera and say nothing. 
+> I am allowed to not know.<br>
+> I am allowed to be inarticulate.<br>
+> I am allowed to be confused.<br>
+> I am allowed to lack clarity.<br>
+> I am allowed to have the wrong answer.<br>
+> I am allowed to change my mind.<br>
+> I am allowed to ask for help.<br>
+> I am allowed to question.<br>
+> I am allowed to think about things I don't usually think about.<br>
+> I am allowed to take up someone's time.<br>
+> I am allowed to have no idea what I'm saying and to say it anyway.<br>
+> I am allowed to talk fast and to talk slow.<br>
+> I am allowed to sit on camera and say nothing.<br>
 
 Also, although I'm only a junior developer, I'm happy to help with technical problems if I can. So our chat can be about tech, a pair programming experiment, a bit of rubber ducking or an opportunity for you to try converting me to Common Lisp. According to one LinkedIn connection, everything else is 'a Turing Tarpit'! 🤷
 
