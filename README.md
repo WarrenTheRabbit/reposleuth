@@ -1,64 +1,159 @@
 # reposleuth
-WIP. A tool for visualising, summarising, learning about and engaging with Python repositories. 
 
+WIP. A tool for visualising, summarising, learning about and engaging with Python repositories.
+
+Unlike any other part of this repository, most of this readme is written in a personal style; that is, the personality of the author is not elided from the text, personal history may be discussed and all creative choices are permitted. 
+        
 #### Purpose
-##### A tool in my tookit
-Primarily, this repository has been created to support the efforts of my repository [pytest-onboarding](https://github.com/WarrenTheRabbit/pytest-onboarding/blob/main/README.md), which is a *very* early stage WIP for contributing 'contributor case studies' and documentation to [pytest](https://docs.pytest.org/en/7.4.x/).
 
-##### A *How To* for other junior devs  
-A close secondary goal is to create a kind of 'partially explained play-by-play' that a junior dev could use to see how someone else has gone about creating a real and permanent tool for their toolkit in a 'semi-professional way'. You are welcome to code along, base different efforts on it, skim through sections or sing the entire contents of the repository to a metronome if that is best for you. 
+##### To create a tool in my toolkit
 
-However it is you want to use this repository, wonderful, it is here to be used. You have my fullest blessings and you can reach out to me here or on [LinkedIn](https://www.linkedin.com/in/warrenmarkham/); if I know how to help, I will.
+Primarily, this repository has been created to support the efforts of the repository [pytest-onboarding](https://github.com/WarrenTheRabbit/pytest-onboarding/blob/main/README.md), which is a very early stage WIP for contributing 'contributor case studies' and documentation to [pytest](https://docs.pytest.org/en/7.4.x/).
 
-###### The original hope
-My original hope, however, was this: if I document the steps I take to create something that is *whole, meaningful, extensible and usable* then it might help me engage with software engineering in the way that I need to be engaging, while also leaving behind a legacy of documentation that can help someone else take the steps they're needing to take to avoid burnout, depression, lasstitude, hopelessness, etc. 
+##### To create a _How To_
 
-##### Our needs are fundamental
-In life, if we don't make sure our actions are being launched from what is most alive in us, then we flounder and fall into states of powerlessness, disulliosnment and despair. Learning to program is no different. If your programming journey doesn't have elements that allow you to express your core values, or if it doesn't offer vectors by which you can satisfy your deepest human longings, then everything will fall apart. 
+A close secondary goal is to create a kind of 'partially explained play-by-play' that a junior developer could use to see how someone else has gone about creating a real and permanent tool for their toolkit in 'a semi-professional way'. 
 
-Take me for example. I know what I am talking about. I know a thing or two about falling apart! I fell apart in high school. I fell part in my twenties. Even without my best friend committing suicide, I was on a shakey road because I didn't know how to project myself and my vision of who I was, what I wanted or what I stood for into the world. Certainly, if the wheel were to miracoulsly spin around a second time, I may have an easier trot of things. The world *is* different now. 
+You are welcome to code along, stage different efforts from it like a template, skim through sections or sing the entire contents of the repository to a metronome if that is best for you However it is you want to use this repository - wonderful. It is here to be used. 
 
-What *would* happen if we rotated a young Warren through a world just a bit more aware and just a bit more welcoming of difference a second time? Would he have an easier time accepting and understanding the importance of his own needs? Those are defintely some interesting thoughts - not very practical though. And you certainly can't muse over your potatos for too long - if all you do is keep them in the potato sack then, sure as anything, they will go green and then no one gets to have any mash. So let's move on from these musings. 
+##### To address issues around mental health
 
-##### Heading
-The bottom line is: I have deep personal experience with not knowing how to communicate, understand or enact the fulfilment of my needs. In fact, I wrote myself some pretty tough lesson plans before I learned the importance of acting with purpose around my deepest needs: breakdown, mental anguish, confusion, fear. But even when you graduate from whichever school of hard knocks you had to attend, you still have to renew what you learned with daily effort, intention and choice. Sometimes you will forget to, or you won't know how to, or you start thinking you aren't good enough and won't be allowed to. That has been true of me. Until very recently, I haven't been doing 'learning to program' in a way that satisfies my needs. I've been avoiding getting involved. I've been avoiding taking responsibility for public codebases. What instead? I've been doing tutorials. I've been reading books. I've been noodling on single code blocks that wil only ever exist on my local machine (and probably not for long) while obsessing over variable names, line lengths, syntax clarity, testability and so on and so forth. For the past year, until just recently, programming has been an activity that I've almostly entirely orphaned from what is most real about my heart and personality. I decided enough is enough. It was time to change my approach to programming. 
+My original hope, however, was this: if I undertake steps that see me create something that is _whole, meaningful, extensible and usable_, then maybe it will help me engage with software engineering in the way that I need to be engaging with it - to address issues of satisfaction, mental health and growth. Furthermore, if I document those steps, then maybe I can leave behind a legacy of documentation that gives someone else the chance to take similar steps - to address their issues around satisfaction, mental health and growth.
 
-#### What I changed
-The first change was that I started telling someone in the software community how much I value them: my mentor (Daniel Ma)[]. Soon I started showing more of my heart and self to other people in the programming community. I commented on posts. I sent messages. I was welcomed and supported in the LinkedIn community by Andre, John Cricckett, Dariusz, Bryan and Florian (who I still haven't followed up with about bounded contexts!).  The second change was that I started trying to connect people. Young Warren drowned in isolation. Mature Warren knows he has a deep need to help people flourish and experience movement and potential. So I tried to listen and hear what people were dreaming about and to do something if I could. The third change was that I started contributing to *pytest*. I also dared to showe the pytest core-devs something of my heart: I told them how meaningful it is to be able to contribute, how much I admire all they have achieved and how grateful I am for their past work and current welcome. 
-The  The second change was that I started a repository *pytest-onboarding*. This is the third change.
+##### What to build?
 
+Let's say you are onboard with the idea but you don't know what to build. My advice would be to ask yourself: 'What tool would help me act on my values more effectively in the world?'. Then try to build some small part of whatever the answer is, and continue to grow the tool you are building as long as it feels relevant and connected to your values and situation. Meanwhile, document your progress and reflect on the things you learn; in many ways, you are your own greatest teacher - your _only_ teacher - and it is empowering to remember that.
 
-#### Accepting being uncomfortable
-None of these changes have gone badly for me. I *did* have to feel fear; instead of playing a video game, watching a tutorial or doing some other thing among an endless carosoul of things I could do to mask and quiet my nervous system, I had to counsel my parts from the executive seat: "I am choosing to be in this situation where I feel fear, and disallowing escapism, because this is the situation I have to be in to act on my values, materially affect the world and have hope in life." As such, many of the above changes were uncomfortable. *Quite* uncomfortable. Writing all of *this* is uncomfortable.
+##### You are the one who learns
+Just as with learning guitar, riding a bike or indeed dying, so too with learning to be a professional programmer; there is no one else who can take your place and go through those things for you. If someone else _does_ somehow go through those experiences for you, then _they_ are the ones who will do whatever it is that is done when a person dies, who will learn to program and who will learn to ride a bike. It certainly won't be you. Yet you don't need someone else to do it for you; _you_ can be the person that learns to program.
 
+After all, learning to program is what happens to you when _you_ program. It doesn't happen when you dabble or dart or flit across things; you learn when you get _involved_. Indeed, you have an incredible superpower - you will learn whatever it is you get yourself involved in. I think that is just fanstatic. I encourage you to have gratitude towards yourself - your amazing, capacious and magical self - because you are always standing in the wings ready to give yourself gifts. Incredible gifts. You gift yourself everything you will ever need when you make the decision to always participate, always take responsibility, always connect and always be involved. So build, care, turn up and learn to program.
 
+#### Connect
 
-###### Career changers
-I need to change how I am approaching programming partly because I am a career changer. Or maybe that doesn't actually matter. But I sometimes think it does. I've been through school. I've fallen in love. I've had my heartbroken. Friends, pets and family members have died. I've had failures. I've had outstanding successes. I've cared unreasonably about the opinions of others. I've suffered in most of the ways that a person can make themselves suffer: I've lied to myself, shamed myself, silenced myself and refused myself compassion and forgiveness. 
-
-All up, I've been through a lot of experiences. I've also learned a lot of lessions. I've learned it is wise to go placidly amidst praise and blame. I've learned I need to travel my own path through the forest instead of the paths laid down by wardens or foot traffic. An A+, an F, Udemy telling me I have completed such and such a course, someone saying I'm smart, someone saying I'm dumb? I've seen how they are just shooting stars in a sky that life has shown me to be very big. Much of what once ruled me no longer has zip and zing; they aren't as real, do not appear as big, as such things once did. But the fact that my partner is a person who has experiences feels real. My choice to be vegan feels real. Helping someone feels real. Getting up in the morning and going to bed feeling like I did something to improve the lives of those I have said Yes to feels real, and it is more important to me than an A+ or a certificate. Is that maturity? Maybe it is. Or maybe it isn't. Maybe all this great tangled yarn ball of life I'm gesturing at is why being a career changer matters. Or maybe being a career changer doesn't matter at all. Who knows. At the bottom of everything a truth remains: I'm not currently satisfying my needs. I wonder if you are currently satisfying yours.
-
-##### Tutorials, videos and courses
-I've certainly noticed that I don't feel satisfied when I do the fragmented experience of day in and day out tutorials and books. For me, for my well-being and continued growth, I need to stay connected to all the things that matter to me. That is, if I allow a strange mini world of activities to replace the big sky I've seen and care about, I start to feel depressed, disconnected from myself and beached on a shore that doesn't want me, value me or care about all the things I dream about and have to offer. Quite simply, I can't endlessly do tutorials, courses or videos. I need real projects, real people to engage with and reasons for writing code that go beyond 'making myself feel like I have such-and-such a skill'. The disjointed jigsaw of half-participation and half-knowledge that happens when I go from one tutorial, course or video to another has little in common with the things that I know bring out the best in me: caring, taking responsibility and working with others. 
-
-For my programming journey to be true to who I am and what I need, it must have the stuff of life in it. Tutorials *can* be nice. There are lots of wonderful, effective communicators out there; I can, have and will continue to benefit from their passion, hard work and good intentions. But once you know about the warmth of the sun, it is not enough to experience just the thin line of colour you can see at sunrise. As interesting as tutorials, books and courses are, they do not compare to lending someone a hand or overcoming a current limit in how effectively you can act on your values. 
-
-I feel I have learned this lesson many times over: brief things grow no fruit. For me, I need to engage with programming in the same way I try to engage myself as father to a dependent or as romantic partner to an equal: as a  *being for*, a *going to* and a *staying with*. All that investing, committing and caring - that full and beautiful daylight that makes life worth living. Shining yourself into the life you live with the commitment to not turn away when things are hard and as the willingness to create something, maintain and renew it, and to be present. I'm writing this because maybe you need the same and you just haven't said it to yourself yet. Or maybe you don't. Either way, I hope that by expressing my own needs, and discussing things throughout this readme in such an unorthodox and flowery way, that it helps you overhear yourself telling you what you are most needing.
-
-Yet I can't help but think that there must be others like me. Living a life has changed me. If you are a career changer, I wonder if living a life has changed you in similar ways too. I'm hoping this repository can help people with similar feelings to the ones I have just shared find a new direction for their programming journey - a direction they are desperately needing. To have some chance of helping other people like me, I'm going to share the process of creating a project that is real, usable, able to grow with me, that has relevance from the very beginning, and which is something I actually care about.
+##### Schedule a no-strings-attached chat
+You can reach out to me by [creating an issue](https://github.com/WarrenTheRabbit/reposleuth/issues), [messaging me](https://www.linkedin.com/in/warrenmarkham/) or even by [scheduling a chat](https://calendly.com/byte-sized-chats/30min). 
 
 
-#### What to build?
-Let's say you are onboard with the idea but you don't know what to build. My advice would be to ask yourself: 'What tool would help me act on my values more effectively in the world?'. Then try to build some small part of whatever the answer is, and continue to grow the tool you are building as long as it feels relevant and connected to your values and situation. Meanwhile, document your progress and reflect on the things you learn; in many ways, you are your own greatest teacher - your *only* teacher - and it is empowering to remember that. 
+##### A chat about what?
+It can be a mental health chat, an opportunity to vent, someone to bounce ideas off - whatever you need it to be. If you *wish* you knew what you needed it to, then just go ahead and book in. Almost always, the best way to find something out is to turn up and start. Remember: you are allowed to not know. No one is judging you. Try saying this:
 
-#### You can learn
-Just as with learning guitar, riding a bike or indeed dying, so too with learning to be a professional programmer; there is no one else who can take your place and go through those things for you. If someone else *does* somehow go through those experiences for you, then *they* are the ones who will do whatever it is that is done when a person dies, who will learn to program and who will learn to ride a bike. It certainly won't be you. Yet you don't need someone else to do it for you; *you* can be the person that learns to program. 
+>[!Note]
+I am allowed to not know.
+I am allowed to be inarticulate.
+I am allowed to be confused.
+I am allowed to lack clarity.
+I am allowed to have the wrong answer.
+I am allowed to change my mind.
+I am allowed to have no idea what I'm talking about.
+I am allowed to sit on camera and say nothing. 
 
-After all, learning to program is what happens to you when *you* program. It doesn't happen when you dabble or dart or flit across things; you learn when you get *involved*. Indeed, you have an incredible superpower - you will learn whatever it is you get yourself involved in. I think that is just fanstatic. I encourage you to have gratitude towards yourself - your amazing, capacious and magical self - because you are always standing in the wings ready to give yourself gifts. Incredible gifts. You gift yourself everything you will ever need when you make the decision to always participate, always take responsibility, always connect and always be involved. So build, care, turn up and learn to program. 
+Also, although I'm only a junior developer, I'm happy to help with technical problems if I can. So our chat can be about tech, a pair programming experiment, a bit of rubber ducking or an opportunity for you to try converting me to Common Lisp. According to one LinkedIn connection, everything else is 'a Turing Tarpit'! 🤷
+
+##### I want to help 
+
+I'm doing these chats because they enrich my life. So I'm all good. The only question that remains is: **how can I help you enrich yours?**
+
+
+#### Programming Journey
+
+##### What I was doing
+
+Until very recently, I haven't been doing 'learning to program' in a way that satisfies my needs. I've been avoiding getting involved. I've been avoiding taking responsibility for public codebases. I've been avoiding leveraging my whole personality.
+
+What have I been doing instead? I've been doing tutorials. I've been reading books. I've been noodling on single code blocks that wil only ever exist on my local machine (and probably not for long) while obsessing over variable names, line lengths, syntax clarity, testability and so on and so forth. For the past year, until just recently, programming has been an activity that I've almostly entirely orphaned from what is most real about my heart and personality. I decided enough is enough. It was time to change my approach to programming.
+
+##### What I have changed
+Common themes in the changes I made are:
+- I was willing to show something of who I am.
+- I found places that welcomed and appreciated my enthusiasm and willigness to contibute; if I couldn't find the right place to contribute something alive in me, I created the place myself.
+- I didn't worry about what I would get back from my contributions - I got back in touch with what makes me feel alived and focused on what I could give.
+
+The first change was that I started telling someone in the software community how much I value them: my mentor [Daniel Mastrorillo](https://www.linkedin.com/in/daniel-mastrorillo/), who now runs [TechBoost](https://www.linkedin.com/groups/14313035/). Soon I started showing more of my heart and self to other people in the programming community. I commented on posts. I sent messages. I felt welcomed and supported in the LinkedIn community by [André ](https://www.linkedin.com/in/andrejonas/), [John](https://www.linkedin.com/in/johncrickett), [Dariusz](https://www.linkedin.com/in/darsadowski/), [Bryan](https://www.linkedin.com/in/bryan-finster/) and [Florian](https://www.linkedin.com/in/florian-fanderl/). I connected with [Adam](https://www.linkedin.com/in/adam-martuccio/) and [Jed](https://www.linkedin.com/in/jed-roberts/) from the Melbourne, Australia [Holberton School](https://holbertonschool.com.au/). They all encouraged me, made me feel welcome and affirmed that I have value.
+
+The second change was that I started trying to connect people. Young Warren drowned in isolation. Mature Warren knows he has a deep well of affection for people, and that he really enjoys it when they are happy and flourish. So I tried to listen and hear what people were dreaming about, and then to do something if I could. 
+
+The third change was that I started contributing to [*pytest*](https://docs.pytest.org/en/7.4.x/). I also dared to show the *pytest* core devs something of my heart: I told them how meaningful it is to be able to contribute, how much I admire all they have achieved and how grateful I am for their past work and current welcome.
+
+The fourth change was that I started the [_pytest-onboarding_](https://github.com/WarrenTheRabbit/pytest-onboarding/blob/main/README.md) repository. 
+
+This is the fifth change.
+
+##### Reflecting on the changes
+None of these changes have gone badly for me. I _did_ have to feel fear. Instead of playing a video game, watching a tutorial or doing some other thing among an endless carosoul of things I could do to mask and quiet my nervous system, I had to counsel my parts from the executive seat: 
+
+>I am choosing to be in this situation that I find uncomfortable, and I am disallowing escapism, because this is the situation I have to be in to act on my values, to materially affect the world and to have influence in my life.
+
+As such, many of the above changes were uncomfortable. _Quite_ uncomfortable. Writing some of _this_ is uncomfortable. But it is always worth it.
 
 #### Final Words
-I wish you the very best and encourage you to be liberated of all worry. No one is special; so take off all the cruel yokes you judge yourself with. There is enough noise in the world already. Don't bother with things that make you doubt, compare or fear. Truly, you don't need to spend a single moment more wondering about whether or not you are good enough. You don't need to figure out whether the reason you are unemployed, or employed at a particular salary, or in a certain industry, because someone knows the truth about your real worth and limits. You are and have everything you need already: the ability to choose and commit. So there is no point thinking about what level you need to reach or what you believe is currently excluding you from entry. Simply care, take responsibility, build and throw yourself wholeheartedly forward through time and into encounters with other people. That is how we become programmers. It is the journey I am on and I think it is a wonderful journey.
 
-Ultimately, I want to salute you for choosing to be the one who turns up to learn how to program; whether some of that learning happens here, elsewhere, this way or in another way, it will always be you who is doing it. That is why I salute you. In fact, I hold that part of you and that part of myself in the highest esteem. I'll sign off with a reminder to myself and hopefully with something you find inspiring: even though we can know for sure that we are not at all special, we can be just as confident that every choice to turn up and care will without fail create something that is. 
+I wish you the very best and encourage you to be liberated of all worry. No one is special. There is enough noise in the world to distract you already - no need to distract yourself further with nonsense. I'll finish this unconvential readme with something even more unconventional: a story. I hope it helps you.
 
-Warren
+##### The Shed of Unwanted Things
+Imagine you are standing in a dark shed. You are in The Shed of Unwanted Things. You put yourself there because you believe you are unwanted. 
+
+All around you, things gather dust, are broken down and are never to be used or wanted by anyone ever again. But you are not one of those unwanted things. You realise that suddenly. You are actually there to leave unwanted things behind. 
+
+You leave behind your doubt. You leave behind your comparisons. You leave behind your fear. You no longer need to worry about whether you are good enough. You no longer need to figure out whether the reason you are unemployed, or employed at a particular salary, or in a certain industry, is because someone knows the truth about your real worth and limits. 
+
+You are not too old, too young, too inexperienced, too uneducated, too unskilled, too unprofessional, too unattractive, too tall, too short, too male, too female, too inbetween, too unidentified, too heavy, too light, too uninteresting, too unconfident, too confident, too unlikable, too unlovable, too unloving, too loving, too unkind, too kind or too much or too little of anything. All of that falls away.  
+
+As you leave all those things behind, you feel something. It is somewhere between a feeling of warmth and an anxious flutter. Paused, standing in the dark shed by yourself, you allow yourself to just be curious about the feeling. What is it? What does it mean? Why are you feeling warm but anxious? Is it possible that *you* are wanted? You even say it aloud: I am wanted. It feels quite good. It also makes you feel nervouse. You say it again. I am wanted. You say it twenty times. You keep saying it. It *is* frightening. But it also feels really god. You are wanted.
+
+The more you say it the more you become aware of the shed. It is *angry*. The Shed of Unwanted Things is angry that you are there. It is an uncomfortable feeling. The shed wants to eject you as soon as possible. It *hates* having you there. Its job is to store unwanted things and you are not at all an unwated thing. 
+
+"Get out!" it suddenly tells you, like a kettle blowing its top. Venting with bits of spittle, it goes on: "You cannot stay here! You are *full* of things that are wanted. *You* are wanted!" 
+
+It sounds very scornful when it says that, like it can't imagine anything worse. It just wants to be left alone to grow its cobwebs. It doesn't like you, value you or appreciate you. The sooner you leave the sooner it can get right back to forgetting you were ever even there. 
+
+"Why am I wanted?" you ask. You know you are wanted but you don't know why. "I am not special. I am not unique. I am not different." You know there are thousands, millions, *billions* out there just like you. Why does the world won't *you*?
+
+The shed is outraged. Its frame shakes and its door rattles with its fury. "YOU!" it shouts. "You are EVERYTHING that is wanted!" 
+
+Its door swings open and beautiful sunlight pours in. On your face, into your mouth; the sun being in the room with you is like warm sugar. You can even see the worries and fears you let go off earlier when you dropped them to the shed floor not moments ago. They look so small and silly now. They have gathered cobwebs so quickly. They look unusable. Why did you carry them around? They truly are unwanted. 
+
+But the shed has not finished yelling at you: "Out there, you are the ONLY thing that is wanted!" 
+
+It is so angry at you. There is something it *really* doesn't like about you; there is something about you that makes the shed completely sure you will never be allowed to stay in The Shed of Unwanted Things. Not now and not ever. 
+
+"They want you", the shed says, practically sneering now, "because you can *choose*, because you can *commit*. That is what they want. They *need* it. The only way anything ever happens out there is when someone chooses and when someone commits. They are obsessed with! They are obsessed with things happening!" 
+
+The shed really doesn't like the outside world. 
+
+"They love when things happen. Oh, look, so-and-so and this-and-that is creating blah-blah-blergh for those you-knows-and-what-nots and it does dippity-doppity-didcraps." 
+
+It is almost like the shed is grinding its teeth - or is it retching? - from frustration and distaste. 
+
+"They especially love people like *you*. They are crazy about people full stop. The whole mad lot of them. They luuuurve what people can do. They luuuurve when people contribute. They luuuurve when people care. They luuuurve when people create. They luuuurve when people make things happen. That is why you cannot stay! You are one of them. One of them *peoples*!" 
+
+The shed spits the word 'people' out so forcefully it sounds like the word 'purple'. The voice is dripping with scorn. 
+
+"And they won't be able to get enough of *you* when they see your willingness, your eagerness, your hopefullness - *those* things - all those stupid qualities and ways of being that Wanted Things like you have when they choose and when they commit. Now get out! Get out of my shed! You are not wanted here!" 
+
+That is what The Shed of Unwanted Things says to you when you asked why you are wanted, and suddenly you are hurtling through its door and into the world outside. The shed door bangs shut with a big *CRACK*.
+
+Your landing was not graceful. You stand up, brush yourself off and take a first step. The daylight feels so good. You still have the warm, anxious fluttery feeling in your belly. But you understand that feeling now. It is a lamp that reminds you to have courage. 
+
+While you don't quite know exactly when you made this decision, you are aware that a decision has been made: you are going to commit and you are going to try. You are A Wanted Thing.  
+
+You were afraid to do that before you realise. You wanted to escape the responsibility. You thought it would be easier to believe you belong in The Shed of Unwanted Things. In a way, it *was* easier. But you have left all those worries and doubts that were holding you back behind; they are back there in The Shed of Unwanted Things where they belong.
+
+Yes, you will still feel frightened. Without doubt, you will need courage. Yes, you will still feel unsure about whether something will succeed. Without doubt, not everything you touch will turn to gold. But you will never try to put yourself in The Shed of Unwanted Things again. You can't. You know you are not an unwanted thing now. You can see the daylight. You can feel how much that ghastly shed doesn't want you. But the *world* wants you. You can feel that. Yes, you are completely sure of it. Even when a cloud passes overhead and you feel a tad cold, you remain completely sure of that: the world wants you. It wants you to choose and it wants you to commit. The world *luuuurves* people.   
+
+And that is how you leave The Shed of Unwanted Things. You are never allowed back in and you will never try to get back in. You are A Wanted Thing after all and that gloomy shed really hates your guts. 
+
+You also have a warm, almost fluttering feeling in your stomach. It is your courage lamp. You are fond of it and you are glad it is there. It will help you in the days ahead.
+
+And *wow*, it feels really good to know that you are wanted. You are wanted by the world. It is silly you ever doubted it - you can choose and you can commit. Surprisingly, it actually feels really, really good to be hated by The Shed of Unwanted Things too. What a duckface it was.
+
+You also know two truths:
+
+1) You have everything you need to become a programmer. All you to have to do is care, take responsibility, build, say Yes and throw yourself wholeheartedly forward through time and into encounters with other people.
+
+2) Even though you know for sure that you are not at all special, you can be just as sure that any time you choose to turn up and care you will, without fail, create something that is.
+
+
+Thank you for reading.
+
+[Warren Markham](https://www.linkedin.com/in/warrenmarkham/)
