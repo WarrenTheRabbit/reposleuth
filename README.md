@@ -156,8 +156,10 @@ I wish you the very best and encourage you to be liberated of all worry. No one 
 >
 >2) Even though you know for sure that you are not at all special, you can be just as sure that any time you choose to turn up and care you will, without fail, create something that is.
 
-Thank you for reading. You can commit and you can choose. 
+Thank you for reading. And remember, we can commit and we can choose. 
 
+Warren Markham <br>
+<br>
 | [create an issue](https://github.com/WarrenTheRabbit/reposleuth/issues) | [messaging me on LinkedIn](https://www.linkedin.com/in/warrenmarkham/) | [schedule a chat](https://calendly.com/byte-sized-chats/30min) |
 
 
