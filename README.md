@@ -27,7 +27,7 @@ Let's say you are onboard with the idea but you don't know what to build. My adv
 ##### You are the one who learns
 Just as with learning guitar, riding a bike or indeed dying, so too with learning to be a professional programmer; there is no one else who can take your place and go through those things for you. If someone else _does_ somehow go through those experiences for you, then _they_ are the ones who will do whatever it is that is done when a person dies, who will learn to program or who will learn to ride a bike. It certainly won't be you or me. Yet we don't need someone else to do it for us; _we_ can be the persons that learn to program.
 
-After all, learning to program is what happens to *us* when we program. It doesn't happen when we dabble or dart or flit across things; we learn when we get _involved_. Indeed, we have an incredible superpower: we will learn whatever it is you we yourself involved in. I think that is just fanstatic. I encourage you to have gratitude towards yourself - your amazing, capacious and magical self. You give yourself gifts. Incredible gifts. You gift yourself everything you will ever need when you make the decision to always participate, always take responsibility, always connect and always be involved. So build, care, turn up and learn to program.
+After all, learning to program is what happens to *us* when we program. It doesn't happen when we dabble or dart or flit across things; we learn when we get _involved_. Indeed, we have an incredible superpower: we will learn whatever it is we involve ourselves in. Everything happens for us when decide to always participate, always take responsibility, always connect and always be involved. So build, care, turn up and learn to program.
 
 #### Connect
 
