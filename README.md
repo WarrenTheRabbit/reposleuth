@@ -14,7 +14,7 @@ Primarily, this repository has been created to support the efforts of the reposi
 
 A close secondary goal is to create a kind of 'partially explained play-by-play' that a junior developer could use to see how someone else has gone about creating a real and permanent tool for their toolkit in 'a semi-professional way'. 
 
-You are welcome to code along, model your own efforts off it, skim through sections or sing the entire contents of the repository to a metronome if that is best for you However it is you want to use this repository - wonderful. It is here to be used. 
+You are welcome to code along, model your own efforts off it, skim through sections or sing the entire contents of the repository to a metronome if that is best for you. However it is you want to use this repository - wonderful. It is here to be used. 
 
 ##### To address issues around mental health
 
